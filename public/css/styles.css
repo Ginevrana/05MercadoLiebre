@@ -1,0 +1,82 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+header {
+    background-color: #eac926;
+}
+
+#logo {
+    width: 25%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#barra {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#buscador {
+    background-color: white;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-top: 2px;
+    margin-left: 20px;
+}
+
+#promo {
+    text-align: center;
+}
+
+main.h2 {
+    font-size: 24px;
+}
+
+.desc {
+    font-size: 16px;
+}
+
+.precio {
+    font-size: 18px;
+}
+
+.burger-menu {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    background-color: #1259c3;
+    display: inline-block;
+    border-radius: 2px;
+    margin: 20px 50vw;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 100vw;
+
+}
+
+footer {
+    text-align: center;
+}
+
+i.fas.fa-credit-card , i.fas.fa-gift , i.fas.fa-user-shield{
+   font-size: 2em;
+   margin-bottom: 10px;
+   margin-top: 15px;
+   color: #1259c3;
+}
